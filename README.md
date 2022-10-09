@@ -6,7 +6,9 @@ NOTA: No olvides usar un middleware para manejar las peticiones POST. También, 
 
 #
 
-✅ Debes proporcionar tu propio proyecto, no la URL de ejemplo.<br>
-✅ Puedes publicar una URL en /api/shorturl y obtener una respuesta JSON con las propiedades original_url y short_url. Aquí hay un ejemplo: { original_url : 'https://freeCodeCamp.org', short_url : 1}.<br>
-✅ Cuando visitas /api/shorturl/<short_url>, serás redirigido a la URL original.<br>
-✅Si pasas una URL inválida que no sigue el formato válido http://www.example.com , la respuesta JSON contendrá { error: 'invalid url' }.<br>
+# Tests
+
+✅ Debes proporcionar tu propio proyecto, no la URL de ejemplo.<br><br>
+✅ Puedes publicar una URL en /api/shorturl y obtener una respuesta JSON con las propiedades original_url y short_url. Aquí hay un ejemplo: { original_url : 'https://freeCodeCamp.org', short_url : 1}.<br><br>
+✅ Cuando visitas /api/shorturl/<short_url>, serás redirigido a la URL original.<br><br>
+✅Si pasas una URL inválida que no sigue el formato válido http://www.example.com , la respuesta JSON contendrá { error: 'invalid url' }.<br><br>
