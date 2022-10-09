@@ -1,6 +1,6 @@
 # URL Shortener Microservice
 
-<h3>This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.<br><br>
+<h3>Crea una aplicación full stack de JavaScript que sea funcionalmente similar a esta: https://url-shortener-microservice.freecodecamp.rocks/.<br><br>
 
 NOTA: No olvides usar un middleware para manejar las peticiones POST. También, puedes usar la función dns.lookup(host, cb) desde el módulo principal dns para verificar una URL enviada.</h3>
 
